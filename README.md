@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Vera Virtual Assistant**
 
-- 🌱 I’m currently learning **Django, MySql, JS**
+- 🌱 I’m currently learning **React, MySql, JS**
 
 - 👯 I’m looking to collaborate on **Impact Team**
 
